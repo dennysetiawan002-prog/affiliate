@@ -1,0 +1,15 @@
+{
+  "name": "Promo Shopee Pilihan Hari Ini",
+  "short_name": "Promo Shopee",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ee4d2d",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
